@@ -1,4 +1,4 @@
-# 🦊 FurryOS - Web-Based Operating System
+#  FurryOS - Web-Based Operating System
 
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -75,5 +75,5 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/furyos.git
-cd furyos
+git clone https://github.com/furrium/furryos
+
